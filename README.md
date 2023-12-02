@@ -109,9 +109,12 @@ else:
     print("Element found at index: ",result)
 
 ```
-## Sample Input and Output
+## Output
+![itemlist](https://github.com/pradeeprajeswari/Search-Algorithm/assets/145743112/1955f488-594f-487d-a0b2-535c7ce02e6f)
 
+![iterative method](https://github.com/pradeeprajeswari/Search-Algorithm/assets/145743112/bcf030f3-ef6e-430c-a257-95b226369423)
 
+![recursivemethod](https://github.com/pradeeprajeswari/Search-Algorithm/assets/145743112/4c8bf3c6-a991-4097-9566-d108b27d8294)
 
 
 
